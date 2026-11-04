@@ -5,13 +5,6 @@ Base de datos del sistema web de la distribuidora de cerveza importada FRIJA BRE
 
 El proyecto utiliza MariaDB y contiene 15 tablas relacionadas mediante claves primarias y foráneas.
 
-
-## Archivos
-
-| Archivo      | Descripción                                   |
-| `schema.sql` | Creación de la base de datos y sus 15 tablas. |
-| `seed.sql`   | Inserción de datos de prueba.                 |
-
 ## Instalación
 
 ### 1. Descargar los archivos
