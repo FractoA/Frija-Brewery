@@ -1,11 +1,11 @@
 -- IMPORTED BEER DISTRIBUTOR
 -- DATABASE SCHEMA
 
-CREATE DATABASE IF NOT EXISTS imported_beer_distributor
+CREATE DATABASE IF NOT EXISTS imported_beer_distributor_dev
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_unicode_ci;
 
-USE imported_beer_distributor;
+USE imported_beer_distributor_dev;
 
 -- ============================================================
 -- 1. BRANCHES
