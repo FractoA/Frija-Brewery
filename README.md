@@ -142,3 +142,5 @@ Consideraciones para reproducir la práctica
 •	Para las pruebas CRUD se recomienda utilizar registros de prueba.
 •	Durante la prueba de independencia solamente se debe detener uno de los servicios a la vez.
 Resultado esperado: al finalizar estos pasos se tendrá un sistema de consola desarrollado en Python que permite administrar usuarios en MariaDB, productos en MongoDB y consultar información relacionada entre ambas fuentes de datos.
+# Cerveceria-Yorch
+Cerveceria que exporta sus productos
