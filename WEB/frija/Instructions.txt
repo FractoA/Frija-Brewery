@@ -1,0 +1,9 @@
+Para cargar previsualizar el proyecto:
+Instalar la extención liveserver en VS Code
+Instalar Node.js
+Entrar a la Carpeta WEB/frija y escribir los comandos
+
+npm install
+npm run dev
+
+Usas la url local que te da.
