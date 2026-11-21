@@ -36,7 +36,7 @@ INSERT INTO users
 )
 VALUES
 (1, 'Carlos', 'Ramirez', 'Lopez',
- 'admin@frija.com', '6641111111', '$2b$12$HASH_DE_PRUEBA',
+ 'admin@frija.com', '6641111111', '$2b$12$QiwRKxvYzPuaeOda47soZ.R.tn0aMUnWwPESjoYhHhXMBBNqEEgvW',
  'ADMIN', 1, 'ACTIVE'),
 
 (2, 'Ana', 'Garcia', 'Torres',
